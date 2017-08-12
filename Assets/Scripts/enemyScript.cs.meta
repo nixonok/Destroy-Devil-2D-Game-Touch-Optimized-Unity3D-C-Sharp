@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c1b1cbc903aaa64599b7795fc63caa7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mask: {fileID: 120670, guid: 122560e073490fd42ac5c4bdf8f87273, type: 2}
+  - scoreText: {instanceID: 0}
+  - bestText: {instanceID: 0}
+  - lifeText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - newScore: {instanceID: 0}
+  - restartText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
